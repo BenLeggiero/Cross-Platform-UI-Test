@@ -1,0 +1,3 @@
+rootProject.name = 'Cross-Platform-UI-Test'
+
+include 'Cross-Platform-UI-Test-jvm', 'Cross-Platform-UI-Test-js'

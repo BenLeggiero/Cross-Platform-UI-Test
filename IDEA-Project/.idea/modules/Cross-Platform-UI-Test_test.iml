@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module version="4">
+  <component name="FacetManager">
+    <facet type="kotlin-language" name="Kotlin">
+      <configuration version="3" platform="Common (experimental) " useProjectSettings="false">
+        <compilerSettings />
+        <compilerArguments>
+          <option name="destination" value="$MODULE_DIR$/../../build/classes/kotlin/test" />
+          <option name="classpath" value="$MODULE_DIR$/../../build/classes/java/main:/Users/ben/Google Drive/Libraries/Projects/From Me/Cross-Platform-UI-Test/IDEA-Project/build/classes/kotlin/main:/Users/ben/Google Drive/Libraries/Projects/From Me/Cross-Platform-UI-Test/IDEA-Project/build/resources/main:/Users/ben/.gradle/caches/modules-2/files-2.1/org.jetbrains.kotlin/kotlin-test-annotations-common/1.2.30-eap-47/5b5e7ff35e3735353ef695b7787b5ae8c843e06d/kotlin-test-annotations-common-1.2.30-eap-47.jar:/Users/ben/.gradle/caches/modules-2/files-2.1/org.jetbrains.kotlin/kotlin-test-common/1.2.30-eap-47/c207d6f65212bcdeacc86529f1dc7c5b9549ac8/kotlin-test-common-1.2.30-eap-47.jar:/Users/ben/.gradle/caches/modules-2/files-2.1/org.jetbrains.kotlin/kotlin-stdlib-common/1.2.30-eap-47/9c7a85b70ca44c4e0409e815623f25f6cc805333/kotlin-stdlib-common-1.2.30-eap-47.jar:/Users/ben/Google Drive/Libraries/Projects/From Me/Cross-Platform-UI-Test/IDEA-Project/build/classes/kotlin/main" />
+          <option name="languageVersion" value="1.2" />
+          <option name="apiVersion" value="1.2" />
+          <option name="pluginOptions">
+            <array />
+          </option>
+          <option name="pluginClasspaths">
+            <array />
+          </option>
+        </compilerArguments>
+      </configuration>
+    </facet>
+  </component>
+</module>
