@@ -4,3 +4,5 @@
 *.bin
 
 *.lock
+
+IDEA-Project/\.idea/workspace\.xml

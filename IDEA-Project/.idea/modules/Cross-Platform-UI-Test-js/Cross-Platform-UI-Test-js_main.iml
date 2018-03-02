@@ -11,6 +11,8 @@
         <compilerArguments>
           <option name="outputFile" value="$MODULE_DIR$/../../../Cross-Platform-UI-Test-js/build/classes/kotlin/main/Cross-Platform-UI-Test-js.js" />
           <option name="noStdlib" value="true" />
+          <option name="sourceMapPrefix" value="" />
+          <option name="sourceMapEmbedSources" value="inlining" />
           <option name="metaInfo" value="true" />
           <option name="target" value="v5" />
           <option name="main" value="call" />
